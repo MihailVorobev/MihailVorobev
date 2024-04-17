@@ -1,5 +1,8 @@
 ![Header](https://github.com/MihailVorobev/MihailVorobev/blob/main/assets/name.png)
 
-About me
+###  Обо мне:
+
+Я начинающий тестировщик, который разбирается во всём разнообразии данной профессии, готов много учится и развиваться.
+
 
 Tools
